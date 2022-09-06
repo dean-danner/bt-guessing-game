@@ -1,5 +1,3 @@
-package danproj3;
-
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
